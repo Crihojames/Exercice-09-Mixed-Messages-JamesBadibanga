@@ -9,3 +9,4 @@ function genererMessage(){
   const message = `${sujet} ${verbe} ${complement}.`;
   return message;
 }
+console.log(genererMessage());
